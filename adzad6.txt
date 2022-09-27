@@ -1,0 +1,5 @@
+6. Licznik liter w pliku
+Napisz program, który wyświetla prośbę o podanie nazwy pliku, a następnie o wprowadzenie
+znaku. Program ten powinien zliczać i wyświetlać liczbę wystąpień określonego
+znaku w pliku. Za pomocą Notatnika lub innego edytora tekstu utwórz prosty
+plik, który można wykorzystać do przetestowania programu.
